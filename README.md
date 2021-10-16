@@ -27,7 +27,11 @@
 	
 ## Utilisation :
 
-./resultat data/nomDuNiveau.txt
+Installer les composants graphiques, avec : "sudo apt-get install libsdl1.2debian libsdl1.2-dev libsdl-ttf2.0-0 libsdl-ttf2.0-dev"
+
+Compiler le code avec : gcc lib/libgraphique.c src/main.c -o nomDuFichier
+
+Lancer le jeu avec : ./resultat data/nomDuNiveau.txt
 
 Ex : ./resultat data/official.txt
 
