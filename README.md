@@ -24,6 +24,12 @@
 ## Idées originales :
 
 	- Pacman clignote en jaune/rouge lorsqu'il mange un bonus (Idée non réalisée)
+	
+## Utilisation :
+
+./resultat data/nomDuNiveau.txt
+
+Ex : ./resultat data/official.txt
 
 
 
