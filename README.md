@@ -1,4 +1,4 @@
-# Projet Pacman
+# Projet Pacman en binôme
 
 ## Travail accompli :
 	
