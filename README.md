@@ -25,7 +25,8 @@
 
 	- Pacman clignote en jaune/rouge lorsqu'il mange un bonus (Idée non réalisée)
 	
-## Utilisation :
+## Utilisation sur Debian :
+
 
 Installer les composants graphiques, avec : "sudo apt-get install libsdl1.2debian libsdl1.2-dev libsdl-ttf2.0-0 libsdl-ttf2.0-dev"
 
